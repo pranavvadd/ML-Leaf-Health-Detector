@@ -61,6 +61,14 @@ I hold certifications in AI fundamentals, including the Microsoft AI-900 and an 
 
 ---
 
+## Note on Training Runtime
+
+During development, training was manually interrupted (KeyboardInterrupt) due to long runtime on CPU hardware. This was intentional to demonstrate the training process within a reasonable time frame.
+
+For full training, consider running the model on GPU-enabled hardware or increasing epochs as needed. The saved model weights reflect the best checkpoint from the completed training epochs.
+
+---
+
 ## How to Run
 1. **Clone this repository**  
    ```bash

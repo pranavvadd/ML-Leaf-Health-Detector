@@ -8,7 +8,7 @@ I used official documentation and YouTube tutorials to guide my understanding of
 ---
 
 ## Background
-I hold certifications in AI fundamentals, including the Microsoft AI-900 and an introductory AI course, which provided me with a solid foundation in artificial intelligence concepts. This project builds on that knowledge by applying core AI and deep learning techniques to a real-world computer vision task—classifying plant leaf diseases using convolutional neural networks.
+I hold certifications in AI fundamentals, including the Microsoft AI-900 and an AWS Introduction to AI course, which provided me with a solid foundation in artificial intelligence concepts. This project builds on that knowledge by applying core AI and deep learning techniques to a real-world computer vision task—classifying plant leaf diseases using convolutional neural networks.
 
 ---
 
